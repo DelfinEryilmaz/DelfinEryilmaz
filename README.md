@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DelfinEryilmaz
+- I'm a freshman in Bilkent CS.
